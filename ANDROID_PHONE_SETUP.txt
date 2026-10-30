@@ -1,0 +1,14 @@
+ARJUN AI KEYBOARD - ANDROID PHONE SETUP
+
+1. Download the ZIP from ChatGPT and open your phone's Files app > Downloads.
+2. Extract the ZIP. Do not try to open the ZIP as an app.
+3. Open your Android IDE app and choose Open Existing Project.
+4. Select the extracted ArjunAIKeyboard folder (the folder containing settings.gradle.kts).
+5. Allow the IDE to download Gradle and Android dependencies. This needs a stable Wi-Fi connection and free storage.
+6. Build the app using the IDE's Build/Run action.
+
+IMPORTANT:
+- This ZIP contains Android source code, not an installable APK.
+- The project needs an Android SDK and a compatible build environment to compile.
+- If the app reports missing libraries during Gradle sync, that is a build/dependency issue, not a ZIP download issue.
+- Do not install APK files from unknown sources. Only install the APK you built from this source.
